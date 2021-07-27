@@ -1,4 +1,4 @@
-<h1 align="center">Hieee!!!</h1>
+<h1 align="center">Bonjour!!!</h1>
 
 - 👋 Hello, I'm Rahul Pereira pursuing bachelor's in IT engineering.
 - ⚡ I like learning new things.
